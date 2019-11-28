@@ -1,1 +1,6 @@
 # TodoList-React
+
+How to run:
+
+npm install
+npm run dev
